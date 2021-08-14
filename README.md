@@ -76,3 +76,6 @@ $ git pull --all
 
 ### 2. Check branch
 $ git branch
+
+### 3. Check git status
+$ git status
